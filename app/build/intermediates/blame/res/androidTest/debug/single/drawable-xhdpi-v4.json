@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\navigation_previous_item.png",
+        "source": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\navigation_previous_item.png"
+    },
+    {
+        "merged": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\navigation_next_item.png",
+        "source": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\navigation_next_item.png"
+    },
+    {
+        "merged": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\day_bg.9.png",
+        "source": "F:\\ExtendedCalendarView\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\day_bg.9.png"
+    }
+]
